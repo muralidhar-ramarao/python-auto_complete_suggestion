@@ -9,3 +9,4 @@ Check out the SampleOutput.png file for a sample usage.
 
 Acknowledgement:
 Thanks to dwyl for the words.txt file. Source: 'https://github.com/dwyl/english-words'.
+Per the source, Copyright still belongs to infochimps for words.txt file.
